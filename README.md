@@ -1,11 +1,10 @@
-violeta edit on github now from as hej
-changed name
-new commit
+
 # Rapport
 
-**Skriv din rapport här!**
-
-_Du kan ta bort all text som finns sedan tidigare_.    
+I downloaded Android Studio and created new account on GitHub.
+I forked the app hello and changed the text on the screen.
+I commited and pushed changes to GitHub from AS. 
+I didn't manage to change the name on GitHub to my new schools account name.
 
 ## Följande grundsyn gäller dugga-svar:
 
