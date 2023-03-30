@@ -12,7 +12,7 @@ I didn't manage to change the name on GitHub to my new schools account name.
 </resources>
 ```
 
-![](firstProject.png)
+![](Screenshot_20230330_082707.png)
 
 ## Följande grundsyn gäller dugga-svar:
 
