@@ -6,9 +6,11 @@ I forked the app hello and changed the text on the screen.
 I commited and pushed changes to GitHub from AS. 
 I didn't manage to change the name on GitHub to my new schools account name.
 
+```
 <resources>
     <string name="app_name">Nice to meet you!</string>
 </resources>
+```
 
 ## Följande grundsyn gäller dugga-svar:
 
