@@ -11,7 +11,7 @@ I didn't manage to change the name on GitHub to my new schools account name.
     <string name="app_name">Nice to meet you!</string>
 </resources>
 ```
-
+![](hello.png)
 ## Följande grundsyn gäller dugga-svar:
 
 - Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
